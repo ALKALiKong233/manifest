@@ -2,7 +2,7 @@
 <manifest>
 
   <remote  name="lineage"
-           fetch="https://mirrors.bfsu.edu.cn/git/lineageOS/"
+           fetch="https://hub.fastgit.org/lineageOS/"
            revision="refs/heads/lineage-18.0" />
 
   <!-- Vendor -->

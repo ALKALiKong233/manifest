@@ -2,13 +2,13 @@
 <manifest>
 
   <remote  name="github"
-           fetch="https://github.com/" />
+           fetch="https://hub.fastgit.org/" />
 
   <remote  name="gitlab"
            fetch="https://gitlab.com/" />
 
   <remote  name="yaap"
-           fetch="https://github.com/yaap"
+           fetch="https://hub.fastgit.org/yaap"
            revision="refs/heads/eleven" />
 
   <!-- General -->
